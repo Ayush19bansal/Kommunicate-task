@@ -1,21 +1,25 @@
 # Hosted link :-https://ayush19bansal.github.io/Kommunicate/
 # First Task Image
-![image](https://github.com/Ayush19bansal/kommunicate-task/assets/118842033/b0e24c38-ad2f-49d3-b543-a1060b800fa5)
+![image](https://github.com/Ayush19bansal/Kommunicate-task/assets/118842033/a849b24a-418f-4a16-b600-acf025a28d96)
+
 
 # When Hover on button 
-![image](https://github.com/Ayush19bansal/kommunicate-task/assets/118842033/6168785f-19a1-4333-85cb-c6948904b758)
-![image](https://github.com/Ayush19bansal/kommunicate-task/assets/118842033/131dfb1f-8110-4c7c-ad4d-18e3d35a98a8)
+   => The button animation with smoth transition looks like .....
+![image](https://github.com/Ayush19bansal/Kommunicate-task/assets/118842033/fc8c1713-3725-47e9-8aeb-f4f2f6b5bb97)
+![image](https://github.com/Ayush19bansal/Kommunicate-task/assets/118842033/d6378770-b6cb-46bd-b7f1-5516d4fd8f53)
+
 
 
 
 # Second Task Code Image 
-![image](https://github.com/Ayush19bansal/kommunicate-task/assets/118842033/f045629a-2ff6-49fe-a748-8874ed602dc1)
+![image](https://github.com/Ayush19bansal/Kommunicate-task/assets/118842033/995449bd-e31a-415b-b9f2-c9eba9736f48)
+![image](https://github.com/Ayush19bansal/Kommunicate-task/assets/118842033/16d21512-3294-4cc1-999f-bff5b489f36b)
 
-![image](https://github.com/Ayush19bansal/kommunicate-task/assets/118842033/9331e377-564a-4b15-863e-44817b95db8c)
 
 
 # Third Task Project Image
-![image](https://github.com/Ayush19bansal/kommunicate-task/assets/118842033/c4befaee-d260-4b38-b8fc-08a17bff507a)
+![image](https://github.com/Ayush19bansal/Kommunicate-task/assets/118842033/08fe4f7c-a9cd-4633-8a0f-9fdffa748287)
+
 
 # Project Link https://weather-app-sigma-tan.vercel.app/
 
