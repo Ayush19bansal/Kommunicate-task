@@ -35,7 +35,6 @@
     margin-top: 3%;
     height: 50%;
     width: 80%;
-    /* position: relative; */
     border: 2px solid rgb(0, 255, 38);
     border-left: none;
     background-color: rgb(255, 255, 255);
@@ -43,7 +42,6 @@
 }
 .h1{
     font-weight: 600;
-    /* font-size: xx-large; */
 }
 .ecommerceColor{
     color: #5553B7;
