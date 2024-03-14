@@ -1,4 +1,4 @@
-# Hosted link :-https://ayush19bansal.github.io/Kommunicate/
+# Hosted link :-https://ayush19bansal.github.io/Kommunicate-task/
 # First Task Image
 ![image](https://github.com/Ayush19bansal/Kommunicate-task/assets/118842033/a849b24a-418f-4a16-b600-acf025a28d96)
 
